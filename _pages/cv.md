@@ -22,12 +22,6 @@ Education
 * M.Sc. in Physics and Astronomy, Summa Cum Laude, Vrije Universiteit Brussel, 2017
 * B.Sc. in Physics and Astronomy, Magna Cum Laude, Vrije Universiteit Brussel, 2015
 
-Service and Leadership
-======
-* Digibrain Meeting Organiser, 2021, Oslo, Norway
-* Mathematics Tutor, Solutio, 2015 - 2017, Hoeilaart, Belgium
-* Student Representative, Vrije Universiteit Brussel, 2012- 2017, Brussels, Belgium
-
 Schools
 ======
 * IPP Summer University for Plasma Physics and Fusion Research, Max Planck Institute for Plasma Physics , September 2016, Greifswald, Germany
@@ -74,4 +68,8 @@ Teaching
 * Electromagnetism: Guided second year students through electromagnetism exercises, wrote accompanying theory summaries, and graded the problem sets. 
 * Introduction to Experimental Physics: Supervised first year students during their introductory course on experimental physics, graded their lab reports and was part of the oral examination committee. 
 
-
+Service and Leadership
+======
+* Digibrain Meeting Organiser, 2021, Oslo, Norway
+* Mathematics Tutor, Solutio, 2015 - 2017, Hoeilaart, Belgium
+* Student Representative, Vrije Universiteit Brussel, 2012- 2017, Brussels, Belgium
