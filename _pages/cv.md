@@ -56,7 +56,8 @@ Conferences
 
 Talks 
 ======
-* "Omics Data in Simulations of Schizophrenia", June 2021, The Joined Simula-UCSD Summer School in Computational Physiology.
+* "Technical tutorial on how to use our implementations of AlphaFold v2.0 and RoseTTAFold", AlphaFold v2.0 and RoseTTAFold workshop, September 2021, Oslo (online), Norway
+* "Omics Data in Simulations of Schizophrenia", The Joined Simula-UCSD Summer School in Computational Physiology, June 2021, Oslo & San Diego (online), Norway & USA
 
 Publications 
 ======
