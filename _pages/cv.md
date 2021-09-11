@@ -30,7 +30,7 @@ Schools
 * Summer School on Integrability in Atomic and Condensed Matter Physics, L'Ecole de Physique des Houches, August 2018, Les Houches, France
 * Summer School on Collective Behaviour in Quantum Matter, The Abdus Salam International Centre for Theoretical Physics, September 2018, Trieste, Italy
 * European Tensor Network School, Max Planck Institute for Complex Systems, November 2018, Dresden, Germany
-* Mathematical Methods in Computational Neuroscience, August 2021, Kavli Institute for Systems Neuroscience, Eresfjord, Norway
+* Mathematical Methods in Computational Neuroscience, August 2021, Kavli Institute for Systems Neuroscience & Norwegian Research School in Neuroscience, Eresfjord, Norway
 
 Conferences
 ======
